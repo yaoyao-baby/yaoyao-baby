@@ -1,12 +1,8 @@
-- 👋 Hi, I’m @yaoyao-baby
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Hi there, I'm Yao Yao! 👋
 
-<!---
-yaoyao-baby/yaoyao-baby is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in coding, software development, and exploring new technologies.
+- 🌱 I’m currently learning Python and web development.
+- 💞️ I’m looking to collaborate on open-source projects related to education and community development.
+- 📫 How to reach me: Feel free to connect with me here on GitHub!
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I love experimenting with different programming languages and creating mini projects in my spare time.
